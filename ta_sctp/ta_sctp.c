@@ -29,6 +29,7 @@
 #include "te_defs.h"
 #include "te_errno.h"
 #include "te_string.h"
+#include "te_str.h"
 #include "logger_api.h"
 
 #include "ta_sctp.h"
